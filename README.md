@@ -42,5 +42,15 @@ Spring MVC의 표준 패턴에 따라 `/admin/home` 요청을 처리하며,
 
 `StatsVO` 리스트로 결과를 매핑합니다
 
+
 #기술스택
+<img width="740" height="181" alt="image" src="https://github.com/user-attachments/assets/17d47557-1478-400a-8c43-13ca60e4ef05" />
+
+
+
+
+
+
+
+
 
